@@ -9,3 +9,4 @@ Despite the progresses made for the prediction of microRNA targets, the function
 
 **Could we define some functional clusters of microRNAs accordingly to their common targets?**
 
+Read the [notebook]("microRNA_network_analysis_with_neo4j_v2.ipynb") describing one clustering solution with the Affinity Propagation algorithm.
